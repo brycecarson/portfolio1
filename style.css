@@ -76,3 +76,26 @@ ABOUT
 #about .icons a{
     color: #000
 }
+
+/*************************
+
+PROJECTS
+
+*************************/
+
+#projects {
+    margin: 60px;
+    width: 80%;
+}
+
+#projects h2{
+    text-align: center;
+}
+
+#projects .card img{
+    width: 100%;
+}
+
+#project .card-title{
+    font-weight: bold;
+}
