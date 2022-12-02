@@ -54,3 +54,7 @@ ABOUT
     font-size: 14px;
     margin-top: 14px;
 }
+#about .icons {
+    margin: 20px;
+    font-size: 30px;
+}
